@@ -69,12 +69,17 @@ streamlit run app.py
 ## 📂 Project Structure
 Smart-Loan-Recovery-System/
 │
+
 ├── data/
 │   └── sample_dataset.csv
+
 ├── app.py
+
 ├── model/
 │   └── loan_model.pkl
+
 ├── requirements.txt
+
 └── README.md
 
 ## 🖼 Screenshots
