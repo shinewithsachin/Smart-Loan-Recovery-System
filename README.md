@@ -79,7 +79,10 @@ Smart-Loan-Recovery-System/
 
 ## 🖼 Screenshots
 
-(Add screenshots of your Streamlit dashboard here)
+![Input-Output](https://github.com/shinewithsachin/Smart-Loan-Recovery-System/blob/main/Screenshot%202025-08-21%20235917.png)
+![Input-Output](https://github.com/shinewithsachin/Smart-Loan-Recovery-System/blob/main/Screenshot%202025-08-21%20235932.png).
+![Input-Output](https://github.com/shinewithsachin/Smart-Loan-Recovery-System/blob/main/Screenshot%202025-08-21%20235945.png)
+![Input-Output](https://github.com/shinewithsachin/Smart-Loan-Recovery-System/blob/main/Screenshot%202025-08-21%20235959.png).
 
 ## 📬 Contact
 
@@ -93,4 +96,8 @@ GitHub: shinewithsachin
 ## ⭐ Contribute
 
 Feel free to fork this repo and submit pull requests for improvements!
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
