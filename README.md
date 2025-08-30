@@ -1,6 +1,7 @@
 # Smart Loan Recovery System
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-green)](https://smart-loan-recovery-system-rkyw6xkw6anbygkdocw7gn.streamlit.app/)
+
 [![Demo Video](https://drive.google.com/file/d/1V1e6W5M5Apzpa1MhbAM591mqCHDllKUM/view?usp=sharing)
 
 ## 📌 Project Overview
